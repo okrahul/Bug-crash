@@ -41,7 +41,7 @@ const Slider = (props) => {
         >
           <SwiperSlide>
            <Card 
-        img = "images/vr.jpg"
+        img = "https://i.postimg.cc/1zCTnwTN/vr.jpg"
         title = "Heading1" 
         para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
         date = "19-March-2022"
@@ -49,7 +49,7 @@ const Slider = (props) => {
 
           <SwiperSlide>
            <Card 
-        img = "images/code.jpg"
+        img = "https://i.postimg.cc/j5BFvKRx/ppr.jpg"
         title = "Heading2" 
         para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
         date = "18-March-2022"
@@ -57,7 +57,7 @@ const Slider = (props) => {
           </SwiperSlide>
           <SwiperSlide>
            <Card 
-        img = "images/meat.jpg"
+        img = "https://i.postimg.cc/xqD3N1nm/meat.jpg"
         title = "Heading3" 
         para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
         date = "17-March-2022"
@@ -65,7 +65,7 @@ const Slider = (props) => {
           </SwiperSlide>
           <SwiperSlide>
             <Card 
-        img = "images/meat2.jpg"
+        img = " https://i.postimg.cc/ydGPBTGv/meat2.jpg"
         title = "Heading4" 
         para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
         date = "13-March-2022"
@@ -74,7 +74,7 @@ const Slider = (props) => {
           
           <SwiperSlide>
             <Card 
-        img = "images/girl.png"
+        img = "https://i.postimg.cc/wxSCQ5BX/girl.png"
         title = "Heading5" 
         para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
         date = "13-March-2022"
@@ -83,7 +83,7 @@ const Slider = (props) => {
 
           <SwiperSlide>
             <Card 
-        img = "images/boy.png"
+        img = "https://i.postimg.cc/ZRnc1QwW/boy.png"
         title = "Heading6" 
         para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
         date = "13-March-2022"
@@ -91,7 +91,7 @@ const Slider = (props) => {
           </SwiperSlide>
           <SwiperSlide>
             <Card 
-        img = "images/ppr.jpeg"
+        img = "https://i.postimg.cc/j5BFvKRx/ppr.jpg"
         title = "Heading7" 
         para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
         date = "13-March-2022"
