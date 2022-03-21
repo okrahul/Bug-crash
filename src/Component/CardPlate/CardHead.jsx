@@ -6,30 +6,28 @@ const CardHead = (props) => {
     <>
     <div className="container">
     <CardHeadData 
-    //img = "./images/girl.png"
-    img = "https://postimg.cc/0r0X8wDj"
-    
+    img = "https://i.postimg.cc/wxSCQ5BX/girl.png"
     heading = "Heading 1" 
     para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     date = "18-March-2022"
     /> <br />
 
 <CardHeadData 
-    img = "./images/boy.png"
+    img = "https://i.postimg.cc/ZRnc1QwW/boy.png"
     heading = "Heading 2" 
     para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     date = "19-March-2022"
     />
 
 <CardHeadData 
-    img = "./images/vr.jpg"
+    img = "https://i.postimg.cc/1zCTnwTN/vr.jpg"
     heading = "Heading 3" 
     para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     date = "20-March-2022"
     />
 
 <CardHeadData 
-    img = "./images/table.jpg"
+    img = "https://i.postimg.cc/PxC7mNsV/table.jpg"
     heading = "Heading 4" 
     para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     date = "19-March-2022"
