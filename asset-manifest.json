@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bug-crash/static/css/main.6e4063d2.css",
+    "main.js": "/Bug-crash/static/js/main.f52facb0.js",
+    "index.html": "/Bug-crash/index.html",
+    "main.6e4063d2.css.map": "/Bug-crash/static/css/main.6e4063d2.css.map",
+    "main.f52facb0.js.map": "/Bug-crash/static/js/main.f52facb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e4063d2.css",
+    "static/js/main.f52facb0.js"
+  ]
+}
