@@ -7,7 +7,7 @@ const CardHead = (props) => {
     <div className="container">
     <CardHeadData 
     //img = "./images/girl.png"
-    img = "https://postimg.cc/0r0X8wDj][img]https://i.postimg.cc/0r0X8wDj/girl.png[/img"
+    img = "https://postimg.cc/0r0X8wDj"
     
     heading = "Heading 1" 
     para = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
