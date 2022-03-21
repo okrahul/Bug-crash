@@ -1,0 +1,23 @@
+html{
+    height: 100%;
+}
+
+/* body{
+    display: flex;
+    flex-direction: column;
+} */
+.FooterBox{
+  
+    position: inherit;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    color:#FFFFFF; 
+    background: #042831;
+    font-size:1.5em;
+    text-align: center;
+    line-height:100px;
+    margin-top: 25px;
+
+}

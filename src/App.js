@@ -1,25 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Slider from './Component/Slider/Slider'
+import CardHead from './Component/CardPlate/CardHead'
+import NavTile from './Component/NavTile/NavTile'
+import {BrowserRouter} from 'react-router-dom'
+import Footer from './Component/Footer/Footer'
+import './index.css'
 
-function App() {
+
+
+
+
+
+const App = () => {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+    <BrowserRouter>
+    <NavTile />
+    <CardHead />
+    <h4 className='topic'>Trending</h4>
+    <Slider /> 
+    <h4 className='topic'>Web App testing</h4>
+    <Slider /> 
+    <h4 className='topic'>User Interview</h4>
+    <Slider /> 
+    <Footer />
+    </BrowserRouter>
+    </>
+  )
 }
 
-export default App;
+export default App
