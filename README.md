@@ -1,4 +1,4 @@
-<a href="https://ibb.co/JQ8hThL"><img src="https://i.ibb.co/0t1wLwN/Screenshot-2022-03-22-18-05-19-127-com-android-chrome.jpg" alt="Screenshot-2022-03-22-18-05-19-127-com-android-chrome" border="0"></a><br /><a target='_blank' href='https://500pxdownload.com/'> 💫</a><br />
+<a href="https://ibb.co/JQ8hThL"><img src="https://i.ibb.co/0t1wLwN/Screenshot-2022-03-22-18-05-19-127-com-android-chrome.jpg" alt="Screenshot-2022-03-22-18-05-19-127-com-android-chrome" border="0"></a><br /><a target='_blank' href='https://500pxdownload.com/'></a><br />
 
 Live Demo 🔴 <br/>
 <a href= "https://okrahul.github.io/Bug-crash/">Check here</a>
